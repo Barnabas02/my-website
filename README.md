@@ -7,3 +7,5 @@ Updates made on MAIN branch on GitHub before rebase
 ## Repo Purpose
 
 Find your purpose in life
+
+made a few changes
