@@ -9,3 +9,5 @@ Updates made on MAIN branch on GitHub before rebase
 Find your purpose in life
 
 made a few changes
+
+## Getting started
